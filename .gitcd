@@ -1,0 +1,7 @@
+extraReleaseCommand: <none>
+feature: null
+master: master
+tag: v
+test: test
+versionScheme: null
+versionType: manual
