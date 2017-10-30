@@ -1,4 +1,4 @@
-extraReleaseCommand: <none>
+extraReleaseCommand: null
 feature: feature/
 master: master
 tag: v
