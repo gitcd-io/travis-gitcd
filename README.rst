@@ -88,3 +88,4 @@ travis-478.1
 travis-479.1
 travis-479.2
 travis-479.3
+travis-479.4
