@@ -172,3 +172,4 @@ travis-511.2
 travis-511.3
 travis-511.4
 travis-512.1
+travis-512.2
