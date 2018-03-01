@@ -212,3 +212,4 @@ travis-521.2
 travis-521.3
 travis-521.4
 travis-525.1
+travis-525.2
