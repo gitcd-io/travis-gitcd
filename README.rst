@@ -383,3 +383,4 @@ travis-591.1
 travis-591.2
 travis-591.3
 travis-592.1
+travis-592.2
