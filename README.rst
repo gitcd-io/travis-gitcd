@@ -427,3 +427,4 @@ travis-604.1
 travis-604.2
 travis-604.3
 travis-604.4
+travis-606.1
