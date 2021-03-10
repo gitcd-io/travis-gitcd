@@ -1,6 +1,7 @@
 extraReleaseCommand: null
 feature: feature/
 master: master
+preReleaseCommand: null
 tag: v
 test: test
 versionScheme: null
