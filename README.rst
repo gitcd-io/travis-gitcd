@@ -586,3 +586,4 @@ github-30-3.9
 github-31-3.9
 github-31-3.10
 github-31-3.11
+github-31-3.12
